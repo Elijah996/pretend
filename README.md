@@ -1,1 +1,1 @@
-# pretend
+# pretend is a fun bot!
